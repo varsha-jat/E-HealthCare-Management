@@ -211,6 +211,7 @@ public class ADMIN extends DatabaseConnect {
                 System.out.println("report: " + rs.getString("report"));
                 System.out.println("fee: " + rs.getInt("fee"));
                 System.out.println("feedback: " + rs.getString("feedback"));
+                 System.out.println("fee:Varsha jat is a good girl ");
                 System.out.println();
             }
             System.out.println(
